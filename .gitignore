@@ -1,0 +1,10 @@
+# Arduino IDE temporary files
+*.tmp
+*.o
+*.d
+*.eep
+*.elf
+*.hex
+*.map
+*.lss
+build*/
